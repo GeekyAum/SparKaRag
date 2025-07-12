@@ -1,0 +1,114 @@
+{
+    "Operating System": {
+        "count": 137,
+        "avg_sentiment": 0.2356,
+        "example": "2025-06-10T05:04:26Z\ndid you update to android 15 ?",
+        "original_clusters": [
+            "android"
+        ],
+        "relevance": 0.5
+    },
+    "Battery Life": {
+        "count": 204,
+        "avg_sentiment": 0.2149,
+        "example": "2025-06-10T05:57:28Z\nTo get this sot and android default ui just disable battery care app",
+        "original_clusters": [
+            "the battery / battery"
+        ],
+        "relevance": 0.9
+    },
+    "Performance": {
+        "count": 90,
+        "avg_sentiment": 0.2943,
+        "example": "2025-06-12T21:41:36Z\nHi u/Little-Prostitute, Thank you for sharing your feedback! We're delighted to hear that your Moto Edge 50 Fusion is still providing excellent battery life even after 10 months of use. Our team works hard to deliver products that offer reliable performance and long-lasting satisfaction.",
+        "original_clusters": [
+            "performance"
+        ],
+        "relevance": 0.9
+    },
+    "Software Updates": {
+        "count": 95,
+        "avg_sentiment": 0.1371,
+        "example": "2025-06-20T09:06:21Z\nIf updates are a necessity for you, don't switch to edge 50 fusion. For all the other requirements I would have definitely switched to edge 50 fusion.",
+        "original_clusters": [
+            "updates"
+        ],
+        "relevance": 0.6
+    },
+    "Stock Android": {
+        "count": 36,
+        "avg_sentiment": 0.1735,
+        "example": "2025-06-21T05:45:46Z\nThe 50 fusion is a good alternative, and although the G75 promises updates for a longer time, I don't think it is the most important feature, if you want many years of updates there are the Google Pixel or Samsung, plus Motorola can change plans from one moment to the next. And it is almost certain that custom ROMs will be released for the 50 Fusion, after all, Motorola's software is almost Stock. Vi que comentaste sobre la pantalla curva, en ese caso puedes ir por el Edge 50 neo si est\u00e1 a tu alcance..",
+        "original_clusters": [
+            "stock"
+        ],
+        "relevance": 0.5
+    },
+    "Issues": {
+        "count": 269,
+        "avg_sentiment": -0.0021,
+        "example": "2025-07-07T02:36:23Z\nI updated to Android 15 and although in its first versions it did have some problems with battery life, it currently behaves very well and is very stable with the May 2025 security patch. I have not had to do a factory reset.",
+        "original_clusters": [
+            "problem",
+            "issues",
+            "bugs"
+        ],
+        "relevance": 0.5
+    },
+    "Display": {
+        "count": 238,
+        "avg_sentiment": 0.1074,
+        "example": "2025-06-14T13:49:54Z\nCmf/Nothing phone are also good, but these are just huge giant sized.         \nThere are no ads on Motorola phones, there's just a new weather app that has ads, but this must be disabled. and you will automatically get the Moto weather back, which has no ads.   \nDon't forget that the 50 Neo has a smaller battery.  I don't like curved displays either, not practical.",
+        "original_clusters": [
+            "display",
+            "the screen"
+        ],
+        "relevance": 0.8
+    },
+    "Camera": {
+        "count": 385,
+        "avg_sentiment": 0.2562,
+        "example": "2025-06-14T21:03:05Z\nWell just to start out no one ever buys a Motorola for their camera performance",
+        "original_clusters": [
+            "camera"
+        ],
+        "relevance": 0.8
+    },
+    "Video Recording": {
+        "count": 406,
+        "avg_sentiment": 0.2524,
+        "example": "2025-06-16T10:50:21Z\nCan anyone confirm if the edge 50 neo can switch lens while recording at 4k30? if it does can anyone dm me a video of it switching lenses in a video",
+        "original_clusters": [
+            "video / a video"
+        ],
+        "relevance": 0.4
+    },
+    "Storage": {
+        "count": 32,
+        "avg_sentiment": 0.0649,
+        "example": "2025-07-09T05:35:35Z\nG04 and G14 were such great value with their ufs 2.2. It was alittle too good the G05 and G15 reverted it back to emmc",
+        "original_clusters": [
+            "ufs"
+        ],
+        "relevance": 0.4
+    },
+    "Price": {
+        "count": 79,
+        "avg_sentiment": 0.3218,
+        "example": "2025-06-11T07:21:52Z\nCheck official Motorola site here, the price is updated regularly. There may be some small difference and the price quoted at the official store is final.",
+        "original_clusters": [
+            "the price",
+            "money"
+        ],
+        "relevance": 0.7
+    },
+    "Gaming Performance": {
+        "count": 68,
+        "avg_sentiment": 0.3605,
+        "example": "2025-07-01T16:51:48Z\nI am getting 1 day . ( no gaming) .",
+        "original_clusters": [
+            "gaming"
+        ],
+        "relevance": 0.8
+    }
+}
